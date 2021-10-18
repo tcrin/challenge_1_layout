@@ -1,6 +1,8 @@
 # challenge_1_layout
 
-A new Flutter project.
+mobile and tablet
+
+![](images_demo/image1.png)
 
 ## Getting Started
 
